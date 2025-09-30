@@ -8,6 +8,12 @@ A Next.js application with user management features built using the App Router, 
 
 This project is based on the provided Figma design specifications.
 
+## Live Demo
+
+🚀 **Live Demo**: [View Live Application](https://frontend-assignment-b7g0lpq0j-jeremiahjoyjosephs-projects.vercel.app)
+
+Experience the complete implementation with full CRUD operations, responsive design, and modern UI components.
+
 ## Features
 
 - **User Management**: Complete CRUD operations for users
